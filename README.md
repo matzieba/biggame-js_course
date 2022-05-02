@@ -1,3 +1,3 @@
 # starter
 
-#JS course task :)
+#1 JS course task :)
